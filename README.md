@@ -2,4 +2,7 @@
 
 Basic Implementation of LRU CACHE
 
-Todo : - Make it thread safe - Add More Methods
+Todo :
+
+    - Make it thread safe
+    - Add More Methods
